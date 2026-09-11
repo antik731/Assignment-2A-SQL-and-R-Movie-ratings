@@ -1,0 +1,15 @@
+---
+title: "assignment_2a_approach"
+author: "Antik Salimullah"
+format:
+  html:
+    embed-resources: true
+---
+
+## **Planned Approach**
+
+I will find a movie survey data set and manually create a SQL table within my local Postgres database using a SQL GUI. I will then use R to pull in the data from my SQL database in order to clean and manage my findings from the data.
+
+## **Anticipated Data Challenges**
+
+I will have to account for missing data by weighing movies on fairly on three or more ratings, if the movie does not have at least three ratings then the movie rating will be omitted.
